@@ -1,7 +1,7 @@
 # Web Projects Using Different CMS:
 This Repository Contains My Handy Created Awesome, Responsive &amp; User-Friendly Websites, Web Application and Many more. All these Websites are Made With New Technology CMS like WordPress, Blogger, Drupal, Joomla and many more. The Complete Source Code of all these Websites and Web Application with database are Also Included in this Repository. This all development made by #abubakarwedev. #techmemorise
 
-![Repository Banner](web-projects-using-cms.jpg)
+![Repository Banner](web-projects-using-different-cms.jpg)
 
 # Motivation
 We all love to surf the Internet. Most of the times, we come across some cool awesome websites which we tend to bookmark for future use. And I love to say that I'm no exception to this behavior.
