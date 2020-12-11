@@ -65,10 +65,15 @@ Click this Link : https://abubakarwebdev.github.io/webapplications/
 
 # ▀▄▀▄▀▄ [ Follow Me on ] ▄▀▄▀▄▀
 ➡️ Facebook:  https://www.facebook.com/techmemories/ 
+
 ➡️ Twitter:  https://www.twitter.com/techmemorise/ 
+
 ➡️ Instagram: https://www.instagram.com/techmemorise/ 
+
 ➡️ Youtube: https://www.youtube.com/channel/UCrF1DtyIAwkLPLm6kKYlTQA
+
 ➡️ Web Devlopment Blog: https://techmemorise.blogspot.com/ 
+
 ➡️ Tech Blog: https://readyforinfo.blogspot.com/
 
 <div align="right">
